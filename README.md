@@ -8,6 +8,7 @@ This is a stock bot which gives you information regarding the stock prices. (Bot
 <li> Go to telegram and search GyanoBot. 
 <li> Start chatting with the bot using /hello command.
 <br><br>
+ 
 <img src="https://github.com/VidhiBhatt01/Telegram_Stock_Bot-Vidhi_Bhatt/blob/main/1.png"> </a>
 <img src="https://github.com/VidhiBhatt01/Telegram_Stock_Bot-Vidhi_Bhatt/blob/main/2.png"> </a>
 <br>
