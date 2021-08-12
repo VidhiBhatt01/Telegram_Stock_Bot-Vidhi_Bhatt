@@ -11,7 +11,7 @@ def thanks(message):
 
 @bot.message_handler(commands = ['hello'])
 def hello(message):
-  bot.send_message(message.chat.id, "Hello! I am GyanBot aka Joe.\n You can use the following commands:\n1. /wsb = to know the prices of 3 most recent popular stocks.\n2. price stock_name = to check the current price of any stock.\n\t        eg1: price tsla\n\t        eg2: price goog\n3. /thanks = if you want to appreciate the bot\n4. /bye = to exit the chat " )
+  bot.send_message(message.chat.id, "Hello! I am GyanoBot aka Joe.\n You can use the following commands:\n1. /wsb = to know the prices of 3 most recent popular stocks.\n2. price stock_name = to check the current price of any stock.\n\t        eg1: price tsla\n\t        eg2: price goog\n3. /thanks = if you want to appreciate the bot\n4. /bye = to exit the chat " )
 
 @bot.message_handler(commands = ['bye'])
 def bye(message):
