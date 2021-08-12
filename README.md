@@ -1,12 +1,13 @@
 # Telegram_Stock_Bot-Vidhi_Bhatt
 A Telegram integrated stock bot using API's.
 <br><br>
-<h2><b>What exactly is the Bot about? </b></h2>
-This is a stock bot which gives you information regarding the stock prices which is coded completely using <b>Python</b> language.
+<h2><b>What exactly is the Bot about?🤔 </b></h2>
+This is a stock bot which gives you information regarding the stock prices. (Bot is coded completely using <b>Python</b> language. )
 <br><br>
-<h2><b>How to use the Bot? </b></h2>
+<h2><b>How to use the Bot?🤖</b></h2>
 <li> Go to telegram and search GyanoBot. 
 <li> Start chatting with the bot using /hello command.
+<br>
 <img src="https://github.com/VidhiBhatt01/Telegram_Stock_Bot-Vidhi_Bhatt/blob/main/1.png"> </a>
 <img src="https://github.com/VidhiBhatt01/Telegram_Stock_Bot-Vidhi_Bhatt/blob/main/2.png"> </a>
 <br>
